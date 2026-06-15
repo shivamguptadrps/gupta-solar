@@ -1,0 +1,26 @@
+{
+  "name": "gupta-solar-energy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "9.122.0",
+    "@react-three/fiber": "9.1.2",
+    "next": "^15.5.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "19.0.1",
+    "@types/react-dom": "19.0.1",
+    "@types/three": "^0.160.0",
+    "typescript": "^5"
+  }
+}
